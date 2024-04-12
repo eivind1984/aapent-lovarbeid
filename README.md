@@ -1,4 +1,4 @@
-# aapent-lovarbeid
+# Åpent lovarbeid
 
 Kan arbeid med lovtekst gjøres på samme måte som man arbeider med åpen kildekode - ved at lovtekstene ligger i et system der det er lett å foreslå og vise frem endringer og å forklare hvorfor man foreslår det man gjør? Ikke vet jeg, men jet er iallefall et sted hvor det går an å prøve seg litt frem.
 
